@@ -1,0 +1,31 @@
+{
+  "name": "hubot-lefthanded-toons",
+  "version": "0.0.1",
+  "description": "A Hubot script for retrieving Left-Handed Toons (www.lefthandedtoons.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gkoo/hubot-lefthanded-toons.git"
+  },
+  "keywords": [
+    "hubot",
+    "left-handed",
+    "toons",
+    "webcomics"
+  ],
+  "author": "Gordon Koo <gordon@gordonkoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gkoo/hubot-lefthanded-toons/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6",
+    "htmlparser": "1.7.6",
+    "soupselect": "0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  }
+}
