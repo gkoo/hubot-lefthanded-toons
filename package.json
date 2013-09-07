@@ -1,6 +1,6 @@
 {
   "name": "hubot-lefthanded-toons",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Hubot script for retrieving Left-Handed Toons (www.lefthandedtoons.com)",
   "repository": {
     "type": "git",
